@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a proposal for laying a duty upon hats Humbly submitted to the consideration of the honourable House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17140</idno><idno type="EEBO-CITATION">99832149</idno>
+  <idno type="VID">198905</idno>
+  <idno type="EEBO-PROQUEST">2240917344</idno>
+  
+            <idno type="STC">Wing A3341A</idno>
+            <idno type="PROQUEST">99832149</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832149e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:100)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a proposal for laying a duty upon hats Humbly submitted to the consideration of the honourable House of Commons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In answer to "A proposal for the raising the summe of two hundred thousand pounds or more per annum as a fund or security, ..".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Millinery --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:198905:1"/>
+            <head>An Answer to a Proposal for Laying a Duty upon HATS.</head>
+            <head type="sub">Humbly submitted to the Consideration of the Honourable House of Commons.</head>
+            <p>WHereas there is a Proposal presented to this Honourable House for the raising of above 200000 <hi>l. per Annum,</hi> by an Imposition on Hats, which Sum the Proposer pretends may be raised by the Duty following, <hi>(viz.)</hi>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat under</cell>
+                     <cell>0.5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>pay</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>05</cell>
+                     <cell>and under</cell>
+                     <cell>10</cell>
+                     <cell>pay</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>10</cell>
+                     <cell>and under</cell>
+                     <cell>20</cell>
+                     <cell>pay</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>20</cell>
+                     <cell>and under</cell>
+                     <cell>30</cell>
+                     <cell>pay</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>30</cell>
+                     <cell>and under</cell>
+                     <cell>40</cell>
+                     <cell>pay</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>40</cell>
+                     <cell>and under</cell>
+                     <cell>50</cell>
+                     <cell>pay</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>50</cell>
+                     <cell>and under</cell>
+                     <cell>60</cell>
+                     <cell>pay</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>That a Hat of</cell>
+                     <cell>60</cell>
+                     <cell>and under</cell>
+                     <cell>70</cell>
+                     <cell>pay</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And the Proposer allows that ¾ of the said Duty would be raised upon Hats made in and about <hi>London.</hi> — Of all Projectors this Gentleman is the most grosly mi<g ref="char:EOLhyphen"/>staken in his Calculate: For it's ready to be proved before this Honourable House, That there are not <hi rend="blackletterType">Five hundred and twenty</hi> Journey-men and Apprentices employ'd (in the Hat-making Trade) within the Bills of Mortality; and of the several priz'd Hats above specified, there are <hi>not</hi> made within the above Limits <hi>above</hi> the several Numbers following, <hi>(viz.)</hi>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Hats.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Men.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Of the Hats to pay</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>every Week</cell>
+                     <cell>443.</cell>
+                     <cell>These employ</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Of the Hats to pay</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>every Week</cell>
+                     <cell>1834.</cell>
+                     <cell>These employ</cell>
+                     <cell>183</cell>
+                  </row>
+                  <row>
+                     <cell>Of the Hats to pay</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>every Week</cell>
+                     <cell>1532.</cell>
+                     <cell>These employ</cell>
+                     <cell>255</cell>
+                  </row>
+                  <row>
+                     <cell>Of Beavers of all sorts, which one with another will not pay <hi>per Hat,</hi> above</cell>
+                     <cell>4</cell>
+                     <cell>00</cell>
+                     <cell>every Week</cell>
+                     <cell>266</cell>
+                     <cell>These employ</cell>
+                     <cell>044</cell>
+                  </row>
+                  <row role="total">
+                     <cell cols="4">So that there are not made every Week one with another, above</cell>
+                     <cell>4075</cell>
+                     <cell>And these do employ</cell>
+                     <cell>519</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By which it appears, That the Number of Hats made within the Bills of Morta<g ref="char:EOLhyphen"/>lity, would (according to the above Tax) not amount to above
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>181 <hi>l.</hi>
+                     </cell>
+                     <cell>05 <hi>s.</hi>
+                     </cell>
+                     <cell>09 <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>per</hi> Week.</cell>
+                  </row>
+                  <row>
+                     <cell>Which is</cell>
+                     <cell>9526 <hi>l.</hi>
+                     </cell>
+                     <cell>19 <hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Annum.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Out of which being deducted at least 2500 <hi>l.</hi> for the Drawback, there will not re<g ref="char:EOLhyphen"/>main above 7026 <hi>l.</hi> 19 <hi>s. per Annum,</hi> of this Duty, arising within the Bills of Morta<g ref="char:EOLhyphen"/>lity: And the Duty within those Limits being allowed by the Proposer to be ¾ of the Duty, the Whole within the Kingdom would not amount to above 9369 <hi>l.</hi> 05 <hi>s.</hi> 04 <hi>d. per Annum.</hi> — The mistaken Gentleman that propos'd this Duty, was very positive there was made 15000 Hats a day in and about <hi>London:</hi> But it's ready to be proved before this Honourable House, there are not 680 made <hi>per diem,</hi> within the Bills of Mortality.</p>
+            <p>There are not made (within the Bills of Mortality) the Twentieth p<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t of that Number of Hats which this mis-inform'd Gentleman suppos'd; neither would the Duty amount to the Twentieth part of the Sum thereby pretended to be rais'd; out of which being deducted the Charge of Collecting, the Remainder would be <hi>inconsi<g ref="char:EOLhyphen"/>derable.</hi> — But the Prejudice the Publick would suffer by this Imposition, would be very <hi rend="blackletterType">Considerable: For the Felt-making Trade is our own Manufacture, and of late much de<g ref="char:EOLhyphen"/>clin'd;</hi> and by <hi>such</hi> an Imposition would be much <hi>more</hi> discourag'd, and our <hi>Conny-Wool</hi> (employ'd in this Manufacture) would <hi rend="blackletterType">then</hi> bear no Price.</p>
+            <p>It's pretended by the Proposer, That good Security will be given for the Farming it at 100000 <hi>l. per Annum.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> If any upon good Security should become Farmers upon those Terms, the Government might One Year <hi>possibly</hi> raise 100000 <hi>l.</hi> by the <hi rend="blackletterType">Ruin</hi> of such Security. But that would not be for the <hi>Interest</hi> of the Publick, nor tend much to the <hi>Advancement</hi> of either the <hi>Interest</hi> or <hi rend="blackletterType">Reputation</hi> of this <hi>mis-inform'd Proposer.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
